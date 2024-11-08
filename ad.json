@@ -1,0 +1,14 @@
+{
+  "id": "jjkMod",
+  "mainText": "Also try Jujutsu Playground, from our friends at 01 STUDIO!",
+  "buttonsUrls": [
+    {
+      "Item1": "Patreon",
+      "Item2": "https://www.patreon.com/01STUDIO"
+    },
+    {
+      "Item1": "Boosty",
+      "Item2": "https://boosty.to/dyadyushkadyadya/"
+    }
+  ]
+}
